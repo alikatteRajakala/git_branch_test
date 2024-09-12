@@ -1,1 +1,3 @@
-# git_branch_test
+git init
+git add .
+git commit -m "first commit"
